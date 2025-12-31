@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...<div align="center">
   <!-- 1. Header GIF: Ảnh động mô phỏng Data Engineering -->
-  <img src="[https://media.giphy.com/media/qgQUggAC3PfvY8LsvB/giphy.gif" width="100%" height="auto" style="border-radius: 10px;](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
   
   <br/><br/>
 
